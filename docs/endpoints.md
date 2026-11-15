@@ -25,7 +25,6 @@ Example motorcycle:
 
 ```json
 {
-    "id": 1,
     "brand": "Yamaha",
     "year": 2008,
     "volume": 50,
@@ -49,7 +48,6 @@ Example motorcycle:
 
 ```json
 {
-    "id": 1,
     "brand": "Yamaha",
     "year": 2008,
     "volume": 50,
